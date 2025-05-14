@@ -1,10 +1,9 @@
-## 🏦 Análise de Banco - Power BI
+🏦 Análise de Banco - Power BI
+Este é um modelo de relatório criado no Power BI (.pbit), desenvolvido durante um dos meus cursos, com foco na análise de dados bancários ou financeiros.
 
-Este é um modelo de relatório criado no Power BI (.pbit), focado na análise de dados bancários ou financeiros.
-feito em um dos cursos que fiz 
+📊 Funcionalidades:
+Visualização interativa de indicadores
 
-### 📊 Funcionalidades:
-- Visualização interativa de indicadores
-- Filtros por período e tipo de transação
-- Painéis de desempenho e alertas visuais
+Filtros por período e tipo de transação
 
+Painéis de desempenho e alertas visuais
